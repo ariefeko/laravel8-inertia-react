@@ -3,9 +3,9 @@ import Layout from "../../components/common/layout";
 
 const Homepage = () => {
     return (
-        <Layout title="Selamat datang di websiteku">
+        <Layout title="Welcome to my website">
             <div>
-                <p>Dari komponen Homepage</p>
+                <p>From Homepage component</p>
             </div>
         </Layout>
     );
